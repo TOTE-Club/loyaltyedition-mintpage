@@ -16,9 +16,9 @@
 
   /***********************************/
   // Customise the app by changing the following variables.
-  const TITLE = "TOTE - Loyal Edition";
+  const TITLE = "TOTE - Loyalty Edition";
   const DESCRTIPTION = "Exclusive mint for Founders who showed loyalty throughout our building process. TOTE is a community driven collection of NFTs bringing the lore of TOTE to the world. Contribute to the journey of our lore when holding one of our elves. Not only will you be able to contribute to our world, but find a place where you can meet other creatives and investors inside our exclusive club community.";
-  const HEADER_TITLE = "TOTE - Loyal Edition";
+  const HEADER_TITLE = "TOTE Club";
   const HEADER_LINK = "https://toteclubnft.com";
   // Your image or GIF needs to be in the /public folder for this to work
   const IMAGE_LINK = "/LoyaltyEdition.gif";
